@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>kr.co.kpcard</groupId>
-	<artifactId>java-project</artifactId>
+	<artifactId>vue-ts-spring-boot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>java-project</name>
+	<name>vue-ts-spring-boot</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>

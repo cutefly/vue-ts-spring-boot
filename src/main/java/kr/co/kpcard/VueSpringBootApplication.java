@@ -6,13 +6,13 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JavaProjectApplication {
+public class VueSpringBootApplication {
 
-	public static Logger logger = LoggerFactory.getLogger(JavaProjectApplication.class);
+	public static Logger logger = LoggerFactory.getLogger(VueSpringBootApplication.class);
 
 	public static void main(String[] args) {
 		logger.info("String Java Project Starting.....");
-		SpringApplication.run(JavaProjectApplication.class, args);
+		SpringApplication.run(VueSpringBootApplication.class, args);
 	}
 
 }
